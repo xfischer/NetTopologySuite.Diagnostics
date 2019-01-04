@@ -8,6 +8,7 @@
     <RepositoryUrl>https://github.com/xfischer/NetTopologySuite.Diagnostics</RepositoryUrl>
     <PackageProjectUrl>https://github.com/xfischer/NetTopologySuite.Diagnostics</PackageProjectUrl>
     <Version>0.0.1</Version>
+    <PackageLicenseUrl></PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
