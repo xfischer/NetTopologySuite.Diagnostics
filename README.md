@@ -6,8 +6,6 @@ Spatial tracing and debugger visualizers for NetTopology geometries.
 
 - Only enables tracing for the moment. A viewer will soon be ported.
 
-using SqlServerSpatial.Toolkit;
-
 ```
 using NetTopologySuite.Diagnostics.Tracing;
 
