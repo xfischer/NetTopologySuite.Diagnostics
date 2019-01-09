@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetTopologySuite.Diagnostics.Tracing", "NetTopologySuite.Diagnostics.Tracing\NetTopologySuite.Diagnostics.Tracing.csproj", "{6004F0EA-F307-464B-8409-0ACB47B6822C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTopologySuite.Diagnostics.Samples", "NetTopologySuite.Diagnostics.Samples\NetTopologySuite.Diagnostics.Samples.csproj", "{6E0A4EB8-A0CB-421F-A5C1-78D7B2A5AD8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6004F0EA-F307-464B-8409-0ACB47B6822C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6004F0EA-F307-464B-8409-0ACB47B6822C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6004F0EA-F307-464B-8409-0ACB47B6822C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0A4EB8-A0CB-421F-A5C1-78D7B2A5AD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0A4EB8-A0CB-421F-A5C1-78D7B2A5AD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0A4EB8-A0CB-421F-A5C1-78D7B2A5AD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0A4EB8-A0CB-421F-A5C1-78D7B2A5AD8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
